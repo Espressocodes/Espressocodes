@@ -2,17 +2,17 @@
 _I am not a programmer. In fact I will break any programming required to do anything useful._
 <br><sub>Not completely useless with markdown, however.</sub>
 <div align="center">
-<img src="https://github.com/Espressocodes/Espressocodes/blob/main/CoffeeCatSpin%20112x112.gif" align="center" style="width: 10%" />
+<img src="https://github.com/Espressocodes/Espressocodes/blob/main/CoffeeCatSpin%20112x112.gif" align="center" style="width: 20%" />
 </div>  
   
 
 ### <div align="center">I'm Espresso, or Jamie. I am also very bad at Github.</div>  
   
 
-- I work in Broadcasting Full-Time. COO for Obiente, Support Aid for Blue Marble.  
-  
-
-- *Also love cats.*  
+- Senior Broadcast Technician/TMP Supervisor at Gray Television
+- COO at [Obiente LLC](https://github.com/Obiente)
+- Support Aid for [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble).  
+- *Cats are pretty cool, tbh.*  
   
 
 <br/>  
